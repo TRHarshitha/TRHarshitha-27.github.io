@@ -17,7 +17,7 @@ body {
 
 /* Header */
 header {
-    background-image: url('/path/to/header-background-image.jpg');
+    background-image: url('water-1283963_1280.jpg');
     background-color: #333;
     color: white;
     padding: 20px 0;
@@ -53,7 +53,7 @@ header a {
 .home {
     text-align: center;
     padding: 100px 0;
-    background-image: url('/path/to/home-section-background-image.jpg');
+    background-image: url('brick-wall-1834784_1280.jpg');
     background-size: cover;
     background-position: center;
 }
@@ -84,7 +84,7 @@ header a {
 .contact {
     text-align: center;
     padding: 100px 0;
-    background-image: url('/path/to/contact-section-background-image.jpg');
+    background-image: url('kitchen-1867663_1280.jpg');
     background-size: cover;
     background-position: center;
 }
