@@ -17,9 +17,12 @@ body {
 
 /* Header */
 header {
+    background-image: url('/path/to/header-background-image.jpg');
     background-color: #333;
     color: white;
     padding: 20px 0;
+    background-size: cover;
+    background-position: center;
 }
 
 header a {
@@ -50,6 +53,9 @@ header a {
 .home {
     text-align: center;
     padding: 100px 0;
+    background-image: url('/path/to/home-section-background-image.jpg');
+    background-size: cover;
+    background-position: center;
 }
 
 .home h1 {
@@ -78,6 +84,9 @@ header a {
 .contact {
     text-align: center;
     padding: 100px 0;
+    background-image: url('/path/to/contact-section-background-image.jpg');
+    background-size: cover;
+    background-position: center;
 }
 
 /* Footer */
