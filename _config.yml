@@ -1,0 +1,15 @@
+# Site settings
+title: HARSHITHA TR
+description: "A showcase of my projects and skills."
+email: Harshithachikka27@gmail.com
+
+# Social networks usernames
+social:
+  - title: github
+    url: https://trharshitha.github.io/TRHarshitha-27.github.io/
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+
